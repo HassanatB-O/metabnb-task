@@ -9,7 +9,7 @@ export default function Learn() {
             <button>Learn more</button>
         </section>
         <section className='image--section'>
-          <img src='Image/NFTs/Frame 59546.svg'/>
+          <img src='Image/NFTs/Frame 59546.svg' alt='image of three NFTs placed diagonally on each other'/>
         </section>
     </div>
   )

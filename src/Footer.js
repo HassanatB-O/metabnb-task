@@ -13,9 +13,9 @@ export default function Footer() {
                 </div>
             </div>
             <div className='icons'>
-                <img src='Image/facebook.svg'/>
-                <img src='Image/instagram.svg'/>
-                <img src='Image/twitter-logo.svg'/>
+                <img src='Image/facebook.svg' alt='the letter f representing the facebook logo'/>
+                <img src='Image/instagram.svg' alt='a bunch of rounded boxes representing the instagram logo'/>
+                <img src='Image/twitter-logo.svg' alt='a bird representing the twitter logo'/>
             </div>
         </section>
         <ul>

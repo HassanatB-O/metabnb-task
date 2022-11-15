@@ -38,7 +38,7 @@ export default function Navbar() {
             <button>Connect wallet</button>
         </div>
         <div className='hamburger-div' onClick={handleNav}>
-            <img src='Image/bars-solid.svg' className='hamburger'/>
+            <img src='Image/bars-solid.svg' className='hamburger' alt='the bars laid on top on one another horizontally representing the hamburger logo'/>
         </div>
         {showModal && <Modal onClose={() => setShowModal(false)} />}
         {showNav && <div className='mobile--nav'>
