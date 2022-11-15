@@ -1,11 +1,13 @@
 import React from 'react'
 import Header from './Header'
 import Learn from './Learn'
+import Navbar from './Navbar'
 import Footer from '../Footer'
 
 export default function Home() {
     return (
       <div>
+        <Navbar/>
         <Header/>
         <section className='communities'>
             <div>

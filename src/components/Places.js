@@ -1,9 +1,11 @@
 import React from 'react'
+import Navbar from './Navbar'
 import Footer from '../Footer'
 
 export default function Places() {
   return (
     <div className='places'>
+        <Navbar/>
         <header className='places--header'>
             <p>Restaurant</p>
             <p>Cottage</p>
