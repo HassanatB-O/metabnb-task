@@ -11,23 +11,23 @@ export default function Home() {
         <Header/>
         <section className='communities'>
             <div>
-                <img src='Image/Group 59536.svg' alt='picture of colorful NFT'/>
-                <img src='Image/MBToken.svg' alt='picture of colorful NFT'/>
+                <img src='Image/Group 59536.svg' alt='colorful NFT'/>
+                <img src='Image/MBToken.svg' alt='colorful NFT'/>
             </div>
             <div>
-                <img src='Image/Group 4038.svg' alt='picture of colorful NFT'/>
-                <img src='Image/Group 4039.svg' alt='picture of colorful NFT'/>
+                <img src='Image/Group 4038.svg' alt='colorful NFT'/>
+                <img src='Image/Group 4039.svg' alt='colorful NFT'/>
             </div>
             <div>
-                <img src='Image/logo.svg' alt='picture of colorful NFT'/>
-                <img src='Image/OpenSea.svg' alt='picture of colorful NFT'/>
+                <img src='Image/logo.svg' alt='colorful NFT'/>
+                <img src='Image/OpenSea.svg' alt='colorful NFT'/>
             </div>
         </section>
         <h2>Inspiration for your next adventure</h2>
         
         <section className='nft-grid'>
             <div className='nft--grid--item'>
-                <img src='Image/NFTs/Frame 1.svg' alt='picture of colorful NFT'/> 
+                <img src='Image/NFTs/Frame 1.svg' alt='colorful NFT'/> 
                 <div className='nft--flex'>
                     <aside>
                         <p>Desert King</p>
@@ -47,7 +47,7 @@ export default function Home() {
                 </div>
             </div>
             <div className='nft--grid--item'>
-                <img src='Image/NFTs/Frame 2.svg' alt='picture of colorful NFT'/>
+                <img src='Image/NFTs/Frame 2.svg' alt='colorful NFT'/>
                 <div className='nft--flex'>
                     <aside>
                         <p>Desert King</p>
@@ -67,7 +67,7 @@ export default function Home() {
                 </div>
             </div>
             <div className='nft--grid--item'>
-                <img src='Image/NFTs/Frame 3.svg' alt='picture of colorful NFT'/>
+                <img src='Image/NFTs/Frame 3.svg' alt='colorful NFT'/>
                 <div className='nft--flex'>
                     <aside>
                         <p>Desert King</p>
@@ -87,7 +87,7 @@ export default function Home() {
                 </div>
             </div>
             <div className='nft--grid--item'>
-                <img src='Image/NFTs/Frame 4.svg' alt='picture of colorful NFT'/>
+                <img src='Image/NFTs/Frame 4.svg' alt='colorful NFT'/>
                 <div className='nft--flex'>
                     <aside>
                         <p>Desert King</p>
@@ -107,7 +107,7 @@ export default function Home() {
                 </div>
             </div>
             <div className='nft--grid--item'>
-                <img src='Image/NFTs/Frame 5.svg' alt='picture of colorful NFT'/>
+                <img src='Image/NFTs/Frame 5.svg' alt='colorful NFT'/>
                 <div className='nft--flex'>
                     <aside>
                         <p>Desert King</p>
@@ -127,7 +127,7 @@ export default function Home() {
                 </div>
             </div>
             <div className='nft--grid--item'>
-                <img src='Image/NFTs/Frame 6.svg' alt='picture of colorful NFT'/>
+                <img src='Image/NFTs/Frame 6.svg' alt='colorful NFT'/>
                 <div className='nft--flex'>
                     <aside>
                         <p>Desert King</p>
@@ -147,7 +147,7 @@ export default function Home() {
                 </div>
             </div>
             <div className='nft--grid--item'>
-                <img src='Image/NFTs/Frame 7.svg' alt='picture of colorful NFT'/>
+                <img src='Image/NFTs/Frame 7.svg' alt='colorful NFT'/>
                 <div className='nft--flex'>
                     <aside>
                         <p>Desert King</p>
@@ -167,7 +167,7 @@ export default function Home() {
                 </div>
             </div>
             <div className='nft--grid--item'>
-                <img src='Image/NFTs/Frame 8.svg' alt='picture of colorful NFT'/>
+                <img src='Image/NFTs/Frame 8.svg' alt='colorful NFT'/>
                 <div className='nft--flex'>
                     <aside>
                         <p>Desert King</p>

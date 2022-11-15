@@ -10,7 +10,7 @@ export default function Header() {
         <button>Search</button>
       </div>
       <div className='image--grid'>
-        <img src='Image/Group 4028.svg' alt='grid image of four NFTs'/>
+        <img src='Image/Group 4028.svg' alt='grid of four NFTs'/>
       </div>
     </header>
   )

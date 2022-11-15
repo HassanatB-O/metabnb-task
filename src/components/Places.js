@@ -22,7 +22,7 @@ export default function Places() {
         </header>
         <section className='nft-grid'>
         <div className='nft--grid--item'>
-                <img src='Image/NFTs/Frame 5.svg' alt='picture of colorful NFT'/>
+                <img src='Image/NFTs/Frame 5.svg' alt='colorful NFT'/>
                 <div className='nft--flex'>
                     <aside>
                         <p>Desert King</p>
@@ -42,7 +42,7 @@ export default function Places() {
                 </div>
             </div>
             <div className='nft--grid--item'>
-                <img src='Image/NFTs/Frame 6.svg' alt='picture of colorful NFT'/>
+                <img src='Image/NFTs/Frame 6.svg' alt='colorful NFT'/>
                 <div className='nft--flex'>
                     <aside>
                         <p>Desert King</p>
@@ -62,7 +62,7 @@ export default function Places() {
                 </div>
             </div>
             <div className='nft--grid--item'>
-                <img src='Image/NFTs/Frame 7.svg' alt='picture of colorful NFT'/>
+                <img src='Image/NFTs/Frame 7.svg' alt='colorful NFT'/>
                 <div className='nft--flex'>
                     <aside>
                         <p>Desert King</p>
@@ -82,7 +82,7 @@ export default function Places() {
                 </div>
             </div>
             <div className='nft--grid--item'>
-                <img src='Image/NFTs/Frame 8.svg' alt='picture of colorful NFT'/>
+                <img src='Image/NFTs/Frame 8.svg' alt='colorful NFT'/>
                 <div className='nft--flex'>
                     <aside>
                         <p>Desert King</p>
@@ -102,7 +102,7 @@ export default function Places() {
                 </div>
             </div>
             <div className='nft--grid--item'>
-                <img src='Image/NFTs/Frame 1.svg' alt='picture of colorful NFT'/> 
+                <img src='Image/NFTs/Frame 1.svg' alt='colorful NFT'/> 
                 <div className='nft--flex'>
                     <aside>
                         <p>Desert King</p>
@@ -122,7 +122,7 @@ export default function Places() {
                 </div>
             </div>
             <div className='nft--grid--item'>
-                <img src='Image/NFTs/Frame 2.svg' alt='picture of colorful NFT'/>
+                <img src='Image/NFTs/Frame 2.svg' alt='colorful NFT'/>
                 <div className='nft--flex'>
                     <aside>
                         <p>Desert King</p>
@@ -142,7 +142,7 @@ export default function Places() {
                 </div>
             </div>
             <div className='nft--grid--item'>
-                <img src='Image/NFTs/Frame 3.svg' alt='picture of colorful NFT'/>
+                <img src='Image/NFTs/Frame 3.svg' alt='colorful NFT'/>
                 <div className='nft--flex'>
                     <aside>
                         <p>Desert King</p>
@@ -162,7 +162,7 @@ export default function Places() {
                 </div>
             </div>
             <div className='nft--grid--item'>
-                <img src='Image/NFTs/Frame 4.svg' alt='picture of colorful NFT'/>
+                <img src='Image/NFTs/Frame 4.svg' alt='colorful NFT'/>
                 <div className='nft--flex'>
                     <aside>
                         <p>Desert King</p>
@@ -182,7 +182,7 @@ export default function Places() {
                 </div>
             </div>
             <div className='nft--grid--item'>
-                <img src='Image/NFTs/Frame 9.svg' alt='picture of colorful NFT'/> 
+                <img src='Image/NFTs/Frame 9.svg' alt='colorful NFT'/> 
                 <div className='nft--flex'>
                     <aside>
                         <p>Desert King</p>
@@ -202,7 +202,7 @@ export default function Places() {
                 </div>
             </div>
             <div className='nft--grid--item'>
-                <img src='Image/NFTs/Frame 10.svg' alt='picture of colorful NFT'/>
+                <img src='Image/NFTs/Frame 10.svg' alt='colorful NFT'/>
                 <div className='nft--flex'>
                     <aside>
                         <p>Desert King</p>
@@ -222,7 +222,7 @@ export default function Places() {
                 </div>
             </div>
             <div className='nft--grid--item'>
-                <img src='Image/NFTs/Frame 11.svg' alt='picture of colorful NFT'/>
+                <img src='Image/NFTs/Frame 11.svg' alt='colorful NFT'/>
                 <div className='nft--flex'>
                     <aside>
                         <p>Desert King</p>
@@ -242,7 +242,7 @@ export default function Places() {
                 </div>
             </div>
             <div className='nft--grid--item'>
-                <img src='Image/NFTs/Frame 12.svg' alt='picture of colorful NFT'/>
+                <img src='Image/NFTs/Frame 12.svg' alt='colorful NFT'/>
                 <div className='nft--flex'>
                     <aside>
                         <p>Desert King</p>
@@ -262,7 +262,7 @@ export default function Places() {
                 </div>
             </div>
             <div className='nft--grid--item'>
-                <img src='Image/NFTs/Frame 13.svg' alt='picture of colorful NFT'/> 
+                <img src='Image/NFTs/Frame 13.svg' alt='colorful NFT'/> 
                 <div className='nft--flex'>
                     <aside>
                         <p>Desert King</p>
@@ -282,7 +282,7 @@ export default function Places() {
                 </div>
             </div>
             <div className='nft--grid--item'>
-                <img src='Image/NFTs/Frame 14.svg' alt='picture of colorful NFT'/>
+                <img src='Image/NFTs/Frame 14.svg' alt='colorful NFT'/>
                 <div className='nft--flex'>
                     <aside>
                         <p>Desert King</p>
@@ -302,7 +302,7 @@ export default function Places() {
                 </div>
             </div>
             <div className='nft--grid--item'>
-                <img src='Image/NFTs/Frame 15.svg' alt='picture of colorful NFT'/>
+                <img src='Image/NFTs/Frame 15.svg' alt='colorful NFT'/>
                 <div className='nft--flex'>
                     <aside>
                         <p>Desert King</p>
@@ -322,7 +322,7 @@ export default function Places() {
                 </div>
             </div>
             <div className='nft--grid--item'>
-                <img src='Image/NFTs/Frame 16.svg' alt='picture of colorful NFT'/>
+                <img src='Image/NFTs/Frame 16.svg' alt='colorful NFT'/>
                 <div className='nft--flex'>
                     <aside>
                         <p>Desert King</p>
