@@ -26,7 +26,7 @@ export default function Footer() {
             <li>Discord</li>
         </ul>
         <ul>
-            <li style={{fontWeight: 700}}>Places</li>
+            <li style={{fontWeight: 700, fontSize: '1.125rem'}}>Places</li>
             <li>Castle</li>
             <li>Farms</li>
             <li>Beach</li>
